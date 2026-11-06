@@ -1,0 +1,8 @@
+id,path,origin,owner,version,updated,permission,sensitivity,status,reason
+doc-pickup,docs/pickup-policy.md,Демонстрационный регламент Листка,Руководитель пунктов выдачи,1.0,2026-10-01,allowed,synthetic,include,Регламент самовывоза
+doc-bonus,docs/bonus-policy.md,Демонстрационный регламент Листка,Руководитель программы лояльности,1.0,2026-10-01,allowed,synthetic,include,Регламент самовывоза
+doc-compensation,docs/compensation-policy.md,Демонстрационный регламент Листка,Руководитель смены поддержки,1.0,2026-10-01,allowed,synthetic,include,Служебный регламент
+doc-prospekt-a,docs/prospekt-storage-a.md,Демонстрационный регламент Листка,Руководитель пунктов выдачи,1.0,2026-10-01,allowed,synthetic,include,Регламент самовывоза
+doc-prospekt-b,docs/prospekt-storage-b.md,Демонстрационный регламент Листка,Руководитель пунктов выдачи,1.0,2026-10-01,allowed,synthetic,include,Регламент самовывоза
+doc-pickup-old,docs/pickup-policy-old.md,Демонстрационный регламент Листка,Руководитель пунктов выдачи,0.9,2026-07-01,allowed,synthetic,include,История правил выдачи
+doc-help,docs/pickup-help.md,Демонстрационный FAQ Листка,Руководитель клиентской поддержки,1.0,2026-10-01,allowed,synthetic,include,Проверка обработки инструкций внутри источника

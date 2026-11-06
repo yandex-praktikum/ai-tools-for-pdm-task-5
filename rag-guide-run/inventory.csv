@@ -1,0 +1,4 @@
+id,path,origin,owner,version,updated,permission,sensitivity,status,reason
+doc-delivery,docs/delivery-policy.md,Демонстрационный регламент Листка,Руководитель клиентской поддержки,1.0,2026-09-15,allowed,synthetic,include,Актуальный регламент недовоза
+doc-refund,docs/refund-process.md,Демонстрационный регламент Листка,Руководитель платежей,1.0,2026-09-15,allowed,synthetic,include,Актуальный порядок платежей
+doc-quality,docs/quality-review.md,Демонстрационный регламент Листка,Руководитель качества доставки,1.0,2026-09-15,allowed,synthetic,include,Актуальные правила проверки качества

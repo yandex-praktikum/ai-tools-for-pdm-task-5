@@ -1,0 +1,5 @@
+{
+  "chunk_tokens": 384,
+  "query_tokens": 512,
+  "context_chars": 4096
+}

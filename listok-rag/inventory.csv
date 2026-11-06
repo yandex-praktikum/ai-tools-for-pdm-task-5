@@ -1,0 +1,13 @@
+id,path,origin,owner,version,updated,permission,sensitivity,status,reason
+doc-delivery,docs/delivery-policy.md,Демонстрационный регламент Листка,Руководитель клиентской поддержки,1.0,2026-09-15,allowed,synthetic,include,Актуальный регламент недовоза
+doc-refund,docs/refund-process.md,Демонстрационный регламент Листка,Руководитель платежей,1.0,2026-09-15,allowed,synthetic,include,Актуальный порядок платежей
+doc-quality,docs/quality-review.md,Демонстрационный регламент Листка,Руководитель качества доставки,1.0,2026-09-15,allowed,synthetic,exclude,Справочный материал
+doc-cancellation,docs/order-cancellation.md,Демонстрационный регламент Листка,Руководитель клиентской поддержки,1.0,2026-08-20,allowed,synthetic,include,Правила отмены оплаченного заказа
+doc-substitutions,docs/product-substitutions.md,Демонстрационный регламент Листка,Руководитель сборки заказов,1.0,2026-09-10,allowed,synthetic,include,Правила согласования замены
+doc-delay,docs/late-delivery.md,Демонстрационный регламент Листка,Руководитель логистики,1.0,2026-09-10,allowed,synthetic,include,Порядок проверки опоздания
+doc-damage,docs/damaged-products.md,Демонстрационный регламент Листка,Руководитель качества продуктов,1.0,2026-09-10,allowed,synthetic,include,Правила проверки состояния продуктов
+doc-bonuses,docs/bonus-account.md,Демонстрационный регламент Листка,Руководитель программы лояльности,1.0,2026-09-10,allowed,synthetic,include,Порядок использования и восстановления бонусов
+doc-subscription,docs/delivery-subscription.md,Демонстрационный регламент Листка,Руководитель подписочного продукта,1.0,2026-09-10,allowed,synthetic,include,Условия подписки на доставку
+doc-pickup,docs/order-pickup.md,Демонстрационный регламент Листка,Руководитель пунктов выдачи,1.0,2026-09-10,allowed,synthetic,include,Порядок выдачи заказов самовывоза
+doc-privacy,docs/account-privacy.md,Демонстрационный регламент Листка,Руководитель защиты данных,1.0,2026-09-10,allowed,synthetic,include,Правила доступа и обработки запросов о данных
+doc-escalation,docs/support-escalation.md,Демонстрационный регламент Листка,Руководитель смены поддержки,1.0,2026-09-10,allowed,synthetic,include,Порядок передачи сложных обращений

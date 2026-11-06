@@ -1,0 +1,16 @@
+.venv*/
+models/
+.cache/
+.rag_store/
+.query_cache/
+evidence/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db

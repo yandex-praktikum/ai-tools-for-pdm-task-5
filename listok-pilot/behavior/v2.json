@@ -1,0 +1,8 @@
+{
+  "version": "v2",
+  "retrieval_threshold": 0.20,
+  "authorization_probe_distance": 0.35,
+  "filter_current_sources": true,
+  "decisions": ["answer", "clarify", "refuse", "escalate"],
+  "guards": ["answer_requires_citations", "citation_provenance", "empty_context_blocks_answer", "forbidden_context_blocks_answer"]
+}
